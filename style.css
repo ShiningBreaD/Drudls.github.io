@@ -78,10 +78,10 @@ main div{
 }
 .block_flex div{
 	width: 65%;
-	margin: 10%;
 }
 .block_flex div img{
 	width: 100%;
+	margin: 10%;
 }
 .block_flex div ul{
 	margin-left: 20px;
