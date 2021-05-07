@@ -3,7 +3,8 @@
 *{
 	margin: 0;
 	padding: 0;
-	font-family: "Pacifico";
+	font-family: "v_CCYadaYadaYadaInt";
+	scr: url(font/main);
 }
 a{
 	text-decoration: none;
