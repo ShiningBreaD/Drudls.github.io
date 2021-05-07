@@ -1,11 +1,12 @@
 @font-face {
 	font-family: "v_CCYadaYadaYadaInt"; 
-	src: url("fonts/v_CCYadaYadaYadaInt.ttf"); 
+	src: url("font/main.ttf"); 
 	font-style: normal; 
 	font-weight: normal; 
 } 
 
 *{
+	font-family: "v_CCYadaYadaYadaInt";
 	margin: 0;
 	padding: 0;
 }
