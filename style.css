@@ -31,14 +31,17 @@ p{
 
 
 
-
 body{
 	background-image: url(image/pattern.png);
+	color: ffed9d;
 }
 .body{
 	width: 100%;
 	max-width: 2000px;
 	margin: 0 auto;
+}
+.colortext {
+    color: ffed9d;
 }
 
 
