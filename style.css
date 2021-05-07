@@ -77,7 +77,8 @@ main div{
 	width: 100%;
 }
 .block_flex div{
-	width: 50%;
+	width: 65%;
+	margin: 10%;
 }
 .block_flex div img{
 	width: 100%;
