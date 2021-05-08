@@ -73,15 +73,12 @@ main div{
 }
 
 .qr_code{
-	
-}
-
-.qr_code div{
-	
+	display:block;
 }
 
 .qr_code img{
-
+	margin-left: 35%;
+	margin-right: 50%;
 }
 
 .block_flex{
