@@ -79,6 +79,7 @@ main div{
 .qr_code img{
 	margin-left: 35%;
 	margin-right: 50%;
+	width: 30%;
 }
 
 .block_flex{
