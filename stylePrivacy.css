@@ -18,8 +18,16 @@ h1{
 	font-size: 6vw;
 	text-align: center;
 }
+h2{
+	font-size: 4vw;
+	margin-left: 2%;
+}
 p{
 	font-size: 2vw;
+	margin-top: 2%;
+    	margin-bottom: 2%;
+    	margin-left: 8%;
+    	margin-right: 8%;
 }
 @media screen and (max-width: 1300px){
 	p{
