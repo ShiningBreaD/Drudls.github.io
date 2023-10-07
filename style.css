@@ -41,7 +41,7 @@ body{
 	background-image: url(image/pattern.png);
 	color: #ffed9d;
 }
-.body{
+.body {
 	width: 100%;
 	max-width: 2000px;
 	margin: 0 auto;
@@ -72,14 +72,15 @@ main div{
 	margin: 0 0 5% 0;
 }
 
-.qr_code{
-	display:block;
+.qr_code {
+	display: block;
 }
 
-.qr_code img{
-	margin-left: 35%;
-	margin-right: 50%;
-	width: 30%;
+.qr_code img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 25%;
 }
 
 .block_flex{
@@ -89,20 +90,37 @@ main div{
 .block_flex div{
 	width: 65%;
 }
-.block_flex div img{
-    	width: 70%;
+.block_flex div img {
+	width: 70%;
 	height: calc(50vh - 1/2 * height);
 	margin-left: 15%;
 	margin-top: 8%;
 }
-.block_flex div ul{
-	margin-left: 20px;
-}
 .text_autor{
 	margin: 0 1%;
 }
-.text_rules{
-	margin: 0 1%;
+.card_flex {
+	display: flex;
+	width: 100%;
+	flex-direction: column-reverse;
+	align-items: center;
+	flex-wrap: wrap;
+}
+.card_flex img {
+	display: block;
+	margin-top: -5%;
+	margin-left: auto;
+	margin-right: auto;
+	width: 32%;
+}
+.card_rule {
+	width: 85%;
+	margin: 2% 0;
+	box-shadow: 0 0 10px rgb(255, 187, 208);
+	border-style: solid;
+	border-radius: 20px;
+	text-align: center;
+	padding: 1%;
 }
 footer{
 	background: url(image/footer.png);
